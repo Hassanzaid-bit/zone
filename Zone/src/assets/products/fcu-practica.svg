@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">FCU Practica fly control unit illustration</title><desc id="desc">A compact wall-mounted fly control unit with a discreet curved cover and blue light.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#083b5e"/><stop offset="1" stop-color="#00152e"/></linearGradient><linearGradient id="shell" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fafc"/><stop offset="1" stop-color="#94a3b8"/></linearGradient></defs>
+  <rect width="800" height="520" rx="32" fill="url(#bg)"/><circle cx="640" cy="130" r="150" fill="#22d3ee" opacity=".08"/><ellipse cx="400" cy="430" rx="205" ry="23" fill="#000" opacity=".25"/>
+  <path d="M225 190q0-55 55-55h240q55 0 55 55v155q0 35-35 35H260q-35 0-35-35z" fill="url(#shell)" stroke="#e2e8f0" stroke-width="5"/><path d="M255 300q145 65 290 0v55H255z" fill="#0f2637"/><path d="M295 323h210" stroke="#67e8f9" stroke-width="18" stroke-linecap="round"/><path d="M320 178h160" stroke="#64748b" stroke-width="9" stroke-linecap="round"/><circle cx="520" cy="175" r="7" fill="#22d3ee"/>
+</svg>

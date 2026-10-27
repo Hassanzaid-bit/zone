@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Snap trap illustration</title><desc id="desc">A modern reusable mechanical rodent snap trap shown open.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#083b5e"/><stop offset="1" stop-color="#00152e"/></linearGradient><linearGradient id="trap" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#475569"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+  <rect width="800" height="520" rx="32" fill="url(#bg)"/><circle cx="650" cy="80" r="160" fill="#22d3ee" opacity=".08"/><ellipse cx="400" cy="425" rx="230" ry="25" fill="#000" opacity=".28"/>
+  <path d="M210 340h380l-45 70H255z" fill="url(#trap)" stroke="#64748b" stroke-width="5"/><path d="M275 337l60-185h200l-70 185z" fill="url(#trap)" stroke="#64748b" stroke-width="5"/><path d="M320 330l52-147M463 330l42-147" stroke="#94a3b8" stroke-width="11" stroke-linecap="round"/><path d="M358 275q42-50 84 0" fill="none" stroke="#e2e8f0" stroke-width="11"/><rect x="340" y="338" width="120" height="38" rx="12" fill="#0891b2"/><circle cx="400" cy="357" r="10" fill="#67e8f9"/>
+</svg>
